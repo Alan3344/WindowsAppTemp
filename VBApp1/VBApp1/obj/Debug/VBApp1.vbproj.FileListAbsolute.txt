@@ -1,0 +1,12 @@
+C:\Users\Xander\source\repos\VBApp1\VBApp1\bin\Debug\VBApp1.exe.config
+C:\Users\Xander\source\repos\VBApp1\VBApp1\bin\Debug\VBApp1.exe
+C:\Users\Xander\source\repos\VBApp1\VBApp1\bin\Debug\VBApp1.pdb
+C:\Users\Xander\source\repos\VBApp1\VBApp1\bin\Debug\VBApp1.xml
+C:\Users\Xander\source\repos\VBApp1\VBApp1\obj\Debug\VBApp1.vbprojAssemblyReference.cache
+C:\Users\Xander\source\repos\VBApp1\VBApp1\obj\Debug\VBApp1.Form1.resources
+C:\Users\Xander\source\repos\VBApp1\VBApp1\obj\Debug\VBApp1.Resources.resources
+C:\Users\Xander\source\repos\VBApp1\VBApp1\obj\Debug\VBApp1.vbproj.GenerateResource.cache
+C:\Users\Xander\source\repos\VBApp1\VBApp1\obj\Debug\VBApp1.vbproj.CoreCompileInputs.cache
+C:\Users\Xander\source\repos\VBApp1\VBApp1\obj\Debug\VBApp1.exe
+C:\Users\Xander\source\repos\VBApp1\VBApp1\obj\Debug\VBApp1.xml
+C:\Users\Xander\source\repos\VBApp1\VBApp1\obj\Debug\VBApp1.pdb
